@@ -1,0 +1,53 @@
+body , html{
+	padding:0;
+	color:#000;
+	margin:0;
+	font-family:Bookman Old Style;
+	margin-bottom:50px;
+}
+
+hr {
+	border:1px solid #000;
+}
+
+ayamjago-code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #EDFEFF;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+.ayamjago {
+	margin-top:20px;	
+}
+
+.AyamJago , .Framework {
+	margin:0 auto 30px;
+	max-width:500px;
+	height:auto;
+}
+
+.AyamJago small , .Framework small {
+	font-size:20px;
+}
+
+.A , .and , .J {
+	border:1px solid #fbfbfb;
+	font-size:108px;
+	display:block;
+	font-weight:500;
+	color:#000;
+	text-align:center;
+	border-radius:15%;
+}
+
+.B , .o , .c , .a , .h , 
+.S , .M , .K {
+	font-size:30px;
+	font-weight:normal;
+	color:#000;
+}
