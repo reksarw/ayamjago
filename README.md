@@ -6,8 +6,9 @@ bukan dari segi penampilan tapi bagaimana cara kerangka ini bekerja.
 
 ## Installation
 
-- Download master ayamjago [https://github.com/reksarw/ArrtChat/archive/master.zip](https://github.com/reksarw/ArrtChat/archive/master.zip)
+- Download master ayamjago [https://github.com/reksarw/ayamjago/archive/master.zip](https://github.com/reksarw/ayamjago/archive/master.zip)
 - Ekstrak file pada server
+- Ubah file.htaccess menjadi .htaccess
 - Lalu jalankan :+1:
 
 ## Documentation
