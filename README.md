@@ -17,5 +17,4 @@ Dokumentasi akan segera dibuat sesegera mungkin
 
 ## PENTING!
 
-AyamJago membutuhkan PHP Version PHP 5.6.0 atau lebih.
-Jika syarat diatas tidak terpenuhi maka tidak semua komponen yang tersedia akan berjalan secara lancar.
+AyamJago membutuhkan PHP Version PHP 5.6.0 atau lebih.Jika syarat tidak terpenuhi maka tidak semua komponen yang tersedia akan berjalan secara lancar.
